@@ -1,0 +1,69 @@
+body{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.logo{
+width: 179.19px;
+height: 48px;
+left: 32px;
+top: 16px;
+}
+.Menu{
+	display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 427px;
+
+
+}
+.header{
+display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  max-width: 100%;
+  margin-left: 32px;
+  margin-right: 36,8px;
+  margin-top: 29px;
+  }
+  .Drop{
+  	margin-right: 30px;
+  }
+  .vietnam{
+  	margin-right: 12px;
+  }
+  .Rectangle{
+  	margin-right: 23.2px;
+  }
+  .Frame{
+  	margin-right: 24px;
+  	margin-top: 31px;
+  }
+
+
+  .image_2{
+  max-width: 100%;
+  background-image: url("../Vector ver2/image 2.svg");
+  background-color: #cccccc;
+  height: 450px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+
+} 
+.p{
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 180px;
+}
+.p1_header{
+font-family: Roboto Slab;
+font-size: 30px;
+line-height: 24px;
+height: 20px;
+
+}
+.p2_header{
+  width: 755px;
+  padding-left: 330px;
+}

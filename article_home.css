@@ -1,0 +1,79 @@
+.Rectangle_2{
+margin: 5px;
+ /*max-width: 100%;*/
+height: 1px;
+/*left: 30px;*/
+/*top: 1068px;*/
+/*width: 1540px;*/
+background: #EEEDED
+}
+.aside_text_1{
+text-align: center;
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+color: #0C7BA7;
+}
+.aside_text_2{
+/*text-align: center;*/
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #707A83;
+width: 780px;
+padding-left: 350px;
+}
+.image_2{
+	max-width: 100%;
+	background-image: url("../Vector ver2/image 2.svg");
+	background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+} 
+.image_2 .p{
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+padding-top: 250px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.Rectangle_5{
+	max-width: 100%;
+	background-image: url("../Vector ver2/image 11.svg");
+	/*background-color: #cccccc;  Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.aside_text_4{
+
+ font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+text-align: center;
+color: #0C7BA7;
+}
+.image_doiTac{
+	/*padding: 65px 155px 60px 88px;*/
+	/*3margin: 155px;*/
+	display: flex;
+  justify-content: space-around;
+}

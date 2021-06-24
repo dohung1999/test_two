@@ -1,0 +1,40 @@
+.troThanhmarel{
+	font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+text-align: center;
+
+color: #0C7BA7;
+
+}
+.text_duoi{
+	font-family: Open Sans;
+font-style: normal;
+
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: center;
+
+color: #707A83;
+/*width: 650px*/
+
+}
+.troThanh_container{
+	text-align: center;
+}
+.tuyendung_container{
+	background: #0C7BA7;
+border-radius: 10px;
+width: 232px;
+height: 48px;
+margin: 72px 0px 72px 630px;
+padding: 10px;
+text-align: center;
+
+}
